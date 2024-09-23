@@ -1,6 +1,0 @@
-"ID","Work Item Type","Title","Test Step","Step Action","Step Expected","Area Path","Assigned To","State"
-,"Test Case","Essential: Marketing Platform - Check Segments function ",,,,"Development","Fúlvio Carvalhido <fulvio@diller.no>","Ready"
-,,,1,"# Create a member in Diller
-# Add Data to said member. (Segments, address, e-mail, etc)
-# Verify that the Data is transferred over to Marketing Platform
-# Create Segments using the Data in Marketing Platform","Should be able to create Segments in Marketing Platform using the Data from Diller",,,
